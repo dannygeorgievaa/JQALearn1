@@ -1,3 +1,5 @@
+package Homework2;
+
 public class Homework2Task4 {
     public static void main(String[] args) {
         //    int[] myArray = {13, 14, 15, 1, 5, 55, 66, 43, 76, 100};

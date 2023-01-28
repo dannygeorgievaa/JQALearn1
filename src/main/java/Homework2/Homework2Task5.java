@@ -1,3 +1,5 @@
+package Homework2;
+
 import static java.lang.System.arraycopy;
 
 public class Homework2Task5 {

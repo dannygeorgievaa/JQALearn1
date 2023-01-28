@@ -1,4 +1,6 @@
-import java.sql.SQLOutput;
+package Homework4;
+
+import Homework4.Car;
 
 public class CarPerson {
     public static void main(String[] args) {
