@@ -33,7 +33,7 @@ public class homework9_junit {
         searchButton.click();
     }
 
-            @AfterClass
+    @AfterClass
         public static void closeBrowser(){
             driver.quit();
 
