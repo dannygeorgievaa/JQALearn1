@@ -27,6 +27,7 @@ public class homework9_junit {
         String actualUrl = driver.getCurrentUrl();
         Assert.assertEquals("https://www.google.com/",actualUrl);
         driver.manage().window().maximize();
+        //
     }
 
     @Test
